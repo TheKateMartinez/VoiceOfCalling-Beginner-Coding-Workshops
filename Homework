@@ -1,0 +1,9 @@
+- **Code Snippets**  
+  Create a folder called `PythonProjects/` and upload any Python code examples you've created. You can name the files like:
+  - `hello_world.py`
+  - `simple_calculator.py`
+
+Example content for **hello_world.py**:
+```python
+# This is a simple Python program that prints "Hello, World!"
+print("Hello, World!")
