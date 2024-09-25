@@ -1,0 +1,9 @@
+# Beginner Coding Projects
+
+1. **Simple Calculator**
+   - Write a Python program that takes two numbers as input and prints their sum.
+   - Bonus: Add multiplication, division, and subtraction options.
+
+2. **Guess the Number Game**
+   - Create a Python game where the computer randomly chooses a number, and the player has to guess it. 
+   - Use conditionals to give hints like “Too high” or “Too low.”
